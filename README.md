@@ -6,4 +6,5 @@ Learning:
 <li>Scrolling Animations</li>
 <li>Text Animations</li>
 
+<br>
 Used Stacks: HTML, CSS, JS, GSAP, Locomotive, ScrollTrigger
